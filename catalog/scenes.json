@@ -1,0 +1,54 @@
+﻿{
+    "v":  1,
+    "scenes":  [
+                   {
+                       "id":  "aurora-drift",
+                       "version":  "1.0.0",
+                       "beta":  true,
+                       "sha256":  "890d2a72e74d768075e12bf811efdc23e6477758c46778fed4e9806eee26b8d4",
+                       "url":  "packages/aurora-drift.zip",
+                       "minimumVersion":  "0.2.0"
+                   },
+                   {
+                       "id":  "ember-veil",
+                       "version":  "1.0.0",
+                       "beta":  true,
+                       "sha256":  "9615d9bdaeb856bdfc78a865b1ff4ac1f25fd2ec9574a622b10c853820d9e192",
+                       "url":  "packages/ember-veil.zip",
+                       "minimumVersion":  "0.2.0"
+                   },
+                   {
+                       "id":  "lumina-scene-contract",
+                       "version":  "1.0.0",
+                       "beta":  false,
+                       "sha256":  "422181d99b7ea734bf5741c28f774cd4a9e5d7abbbbdb5c409ae90e4c9dcfe48",
+                       "url":  "packages/lumina-scene-contract.zip",
+                       "minimumVersion":  "0.2.0"
+                   },
+                   {
+                       "id":  "neon-drift",
+                       "version":  "1.0.0",
+                       "beta":  true,
+                       "sha256":  "089ff2a63943a1bd1b35b9dfd26624ec1086ec8e11daeefff44b407165ab914a",
+                       "url":  "packages/neon-drift.zip",
+                       "minimumVersion":  "0.2.0"
+                   },
+                   {
+                       "id":  "rainy-apartment",
+                       "version":  "1.0.0",
+                       "beta":  true,
+                       "sha256":  "2239d5f1a6a9db81d2366fa2bf8f8f56148e18679e37d9a5c317ddec336175a6",
+                       "url":  "packages/rainy-apartment.zip",
+                       "minimumVersion":  "0.2.0"
+                   },
+                   {
+                       "id":  "wavedrift",
+                       "version":  "1.5.3",
+                       "beta":  false,
+                       "sha256":  "92f78fef88335fc53f251db1ea6bb785a95e814d97993fd6abc37fcfa5cff6dc",
+                       "url":  "packages/wavedrift.zip",
+                       "minimumVersion":  "0.2.0"
+                   }
+               ]
+}
+
