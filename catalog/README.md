@@ -1,13 +1,17 @@
-# Scene update catalog
+# Scene update catalog (staging in the private app repo)
 
-Installed Lumina apps fetch `scenes.json` from this folder on GitHub, then download newer
-scene zips from `packages/`.
+The **live** catalog patrons download is the public repository:
 
-## Publish an update
+https://github.com/PhoenixtBlaze/Lumina-Scenes
 
-1. Edit the scene under `src/Lumina/Scenes/`.
-2. Bump `"version"` in that scene's `scene.json`.
-3. Run `tools/publish-scenes.ps1`.
-4. Review the diff under `catalog/`, commit, and push to `main`.
+Catalog base URL baked into Lumina:
 
-See [docs/SCENE-UPDATES.md](../docs/SCENE-UPDATES.md) for security assumptions and client behaviour.
+`https://raw.githubusercontent.com/PhoenixtBlaze/Lumina-Scenes/main/catalog/`
+
+This `catalog/` folder is the staging copy next to the scene sources. To publish:
+
+1. Edit a scene under `src/Lumina/Scenes/` and bump `"version"` in `scene.json`.
+2. Run `tools/publish-scenes.ps1 -PushPublic` (requires `../Lumina-Scenes` cloned).
+3. Optionally commit the staging `catalog/` here for history in the app repo.
+
+See [docs/SCENE-UPDATES.md](../docs/SCENE-UPDATES.md).
