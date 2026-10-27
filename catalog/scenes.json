@@ -3,9 +3,9 @@
     "scenes":  [
                    {
                        "id":  "aurora-drift",
-                       "version":  "1.0.0",
-                       "beta":  true,
-                       "sha256":  "890d2a72e74d768075e12bf811efdc23e6477758c46778fed4e9806eee26b8d4",
+                       "version":  "2.1.19",
+                       "beta":  false,
+                       "sha256":  "fcbe079b6aea197ac71b804aa9b17e883bd2584e5706789dcafef0bea1432495",
                        "url":  "packages/aurora-drift.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -43,13 +43,11 @@
                    },
                    {
                        "id":  "wavedrift",
-                       "version":  "1.5.3",
+                       "version":  "1.5.4",
                        "beta":  false,
-                       "sha256":  "92f78fef88335fc53f251db1ea6bb785a95e814d97993fd6abc37fcfa5cff6dc",
+                       "sha256":  "5df0a88d990aa7701c7eb2c285233b5b027cbf782e4222359ddc3d09bd7ffb52",
                        "url":  "packages/wavedrift.zip",
                        "minimumVersion":  "0.2.0"
                    }
                ]
 }
-
-
