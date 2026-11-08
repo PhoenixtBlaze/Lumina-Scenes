@@ -11,9 +11,9 @@
                    },
                    {
                        "id":  "ember-veil",
-                       "version":  "1.0.0",
-                       "beta":  true,
-                       "sha256":  "bd25df6c37b91d7165a79b3cd3696c7c146bebd30da4d218619686137ddc921f",
+                       "version":  "2.0.0",
+                       "beta":  false,
+                       "sha256":  "02d3d6b38db6c6161d268bdd14513fbec98013335bb0587ef0c0feac9d0f0c9a",
                        "url":  "packages/ember-veil.zip",
                        "minimumVersion":  "0.2.0"
                    },
