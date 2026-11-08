@@ -3,9 +3,9 @@
     "scenes":  [
                    {
                        "id":  "aurora-drift",
-                       "version":  "2.1.19",
+                       "version":  "2.1.21",
                        "beta":  false,
-                       "sha256":  "fcbe079b6aea197ac71b804aa9b17e883bd2584e5706789dcafef0bea1432495",
+                       "sha256":  "2572674d3e045f99f46ffbe7e4abd2029a2718b121a1c6a2016dcceba1b65ca8",
                        "url":  "packages/aurora-drift.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -13,7 +13,7 @@
                        "id":  "ember-veil",
                        "version":  "1.0.0",
                        "beta":  true,
-                       "sha256":  "9615d9bdaeb856bdfc78a865b1ff4ac1f25fd2ec9574a622b10c853820d9e192",
+                       "sha256":  "bd25df6c37b91d7165a79b3cd3696c7c146bebd30da4d218619686137ddc921f",
                        "url":  "packages/ember-veil.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -21,7 +21,7 @@
                        "id":  "lumina-scene-contract",
                        "version":  "1.0.0",
                        "beta":  false,
-                       "sha256":  "422181d99b7ea734bf5741c28f774cd4a9e5d7abbbbdb5c409ae90e4c9dcfe48",
+                       "sha256":  "6c22a8d1527ecf8521aa03c77be59cbc479f67f8557bd286b8e02ae16da29da6",
                        "url":  "packages/lumina-scene-contract.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -29,7 +29,7 @@
                        "id":  "neon-drift",
                        "version":  "1.0.0",
                        "beta":  true,
-                       "sha256":  "089ff2a63943a1bd1b35b9dfd26624ec1086ec8e11daeefff44b407165ab914a",
+                       "sha256":  "823927fa2fe914bc5743dfd89e80f4131c6fd3fb254445375c2b171c514b82f0",
                        "url":  "packages/neon-drift.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -37,7 +37,7 @@
                        "id":  "rainy-apartment",
                        "version":  "1.0.0",
                        "beta":  true,
-                       "sha256":  "2239d5f1a6a9db81d2366fa2bf8f8f56148e18679e37d9a5c317ddec336175a6",
+                       "sha256":  "2fdff27af20f8c0785d50fb3d0e3b98b0c0643f419e5068479bf1490eaca0d40",
                        "url":  "packages/rainy-apartment.zip",
                        "minimumVersion":  "0.2.0"
                    },
@@ -45,7 +45,7 @@
                        "id":  "wavedrift",
                        "version":  "1.5.4",
                        "beta":  false,
-                       "sha256":  "5df0a88d990aa7701c7eb2c285233b5b027cbf782e4222359ddc3d09bd7ffb52",
+                       "sha256":  "09d0e8ea6603fd072735fb93d0ff059bb6c5e6567d412747aae7b0cd450ab932",
                        "url":  "packages/wavedrift.zip",
                        "minimumVersion":  "0.2.0"
                    }
